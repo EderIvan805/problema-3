@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio\\Ejercicios-.NET\\Problema - 3\\SalarioEmpleados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{864A9215-5D23-48FB-B0FF-8C0218DA280E}|SalarioEmpleados\\SalarioEmpleados.csproj|d:\\visual studio\\ejercicios-.net\\problema - 3\\salarioempleados\\salarioempleados\\wwwroot\\js\\salario\\datossalariobm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{864A9215-5D23-48FB-B0FF-8C0218DA280E}|SalarioEmpleados\\SalarioEmpleados.csproj|solutionrelative:salarioempleados\\wwwroot\\js\\salario\\datossalariobm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864A9215-5D23-48FB-B0FF-8C0218DA280E}|SalarioEmpleados\\SalarioEmpleados.csproj|d:\\visual studio\\ejercicios-.net\\problema - 3\\salarioempleados\\salarioempleados\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864A9215-5D23-48FB-B0FF-8C0218DA280E}|SalarioEmpleados\\SalarioEmpleados.csproj|solutionrelative:salarioempleados\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864A9215-5D23-48FB-B0FF-8C0218DA280E}|SalarioEmpleados\\SalarioEmpleados.csproj|d:\\visual studio\\ejercicios-.net\\problema - 3\\salarioempleados\\salarioempleados\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864A9215-5D23-48FB-B0FF-8C0218DA280E}|SalarioEmpleados\\SalarioEmpleados.csproj|solutionrelative:salarioempleados\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864A9215-5D23-48FB-B0FF-8C0218DA280E}|SalarioEmpleados\\SalarioEmpleados.csproj|d:\\visual studio\\ejercicios-.net\\problema - 3\\salarioempleados\\salarioempleados\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864A9215-5D23-48FB-B0FF-8C0218DA280E}|SalarioEmpleados\\SalarioEmpleados.csproj|solutionrelative:salarioempleados\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864A9215-5D23-48FB-B0FF-8C0218DA280E}|SalarioEmpleados\\SalarioEmpleados.csproj|d:\\visual studio\\ejercicios-.net\\problema - 3\\salarioempleados\\salarioempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864A9215-5D23-48FB-B0FF-8C0218DA280E}|SalarioEmpleados\\SalarioEmpleados.csproj|solutionrelative:salarioempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatosSalarioBM.js",
+              "DocumentMoniker": "D:\\Visual Studio\\Ejercicios-.NET\\Problema - 3\\SalarioEmpleados\\SalarioEmpleados\\wwwroot\\js\\salario\\DatosSalarioBM.js",
+              "RelativeDocumentMoniker": "SalarioEmpleados\\wwwroot\\js\\salario\\DatosSalarioBM.js",
+              "ToolTip": "D:\\Visual Studio\\Ejercicios-.NET\\Problema - 3\\SalarioEmpleados\\SalarioEmpleados\\wwwroot\\js\\salario\\DatosSalarioBM.js",
+              "RelativeToolTip": "SalarioEmpleados\\wwwroot\\js\\salario\\DatosSalarioBM.js",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwAwAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-19T01:08:47.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\Ejercicios-.NET\\Problema - 3\\SalarioEmpleados\\SalarioEmpleados\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalarioEmpleados\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Visual Studio\\Ejercicios-.NET\\Problema - 3\\SalarioEmpleados\\SalarioEmpleados\\Pages\\Index.cshtml",
+              "RelativeToolTip": "SalarioEmpleados\\Pages\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T00:47:05.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\Ejercicios-.NET\\Problema - 3\\SalarioEmpleados\\SalarioEmpleados\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SalarioEmpleados\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\Visual Studio\\Ejercicios-.NET\\Problema - 3\\SalarioEmpleados\\SalarioEmpleados\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "SalarioEmpleados\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T00:45:34.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\Ejercicios-.NET\\Problema - 3\\SalarioEmpleados\\SalarioEmpleados\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SalarioEmpleados\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Visual Studio\\Ejercicios-.NET\\Problema - 3\\SalarioEmpleados\\SalarioEmpleados\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SalarioEmpleados\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T00:43:24.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\Ejercicios-.NET\\Problema - 3\\SalarioEmpleados\\SalarioEmpleados\\Program.cs",
+              "RelativeDocumentMoniker": "SalarioEmpleados\\Program.cs",
+              "ToolTip": "D:\\Visual Studio\\Ejercicios-.NET\\Problema - 3\\SalarioEmpleados\\SalarioEmpleados\\Program.cs",
+              "RelativeToolTip": "SalarioEmpleados\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:42:44.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
